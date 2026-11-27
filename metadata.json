@@ -1,0 +1,6 @@
+{
+  "name": "Papi AI",
+  "description": "Private offline-first local AI assistant powered by on-device GGUF models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
